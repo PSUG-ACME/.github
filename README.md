@@ -12,3 +12,5 @@ Membership in the collaborative is free and is available to anyone in the PowerS
 ## Contributing
 * [BitBucket Git Workflow for ACME](https://docs.google.com/document/d/13gHlM_fU93iwBz43g_kYu8-qvDImv-riF_DDOxDnjVk/edit?usp=sharing)
 A Google Doc with detailed steps on how to fork an ACME project, and submit a Pull Request if you have code to contribute.
+* [GIT for PSUG ACME video lesson](https://drive.google.com/file/d/1kiK1vWX2aloaIy6kQGmjOMg-9Ax7oLeo/view?usp=share_link)
+A 19-minute video lesson on the Fork and Pull collaboration model for PSUG ACME.
